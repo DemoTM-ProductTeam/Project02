@@ -59,13 +59,3 @@ The project aims to evaluate **market performance, consumer adoption, and compet
 - Use data-driven insights to guide **product innovation and SKU rationalization**
 
 ---
-
-## 📂 Project Structure
-```text
-Project02/
-│
-├── data/               # Plant-based milk datasets
-├── notebooks/          # In-depth analytical notebooks
-├── visuals/            # Segment-level charts and insights
-├── README.md           # Project documentation
-└── requirements.txt    # Python dependencies
