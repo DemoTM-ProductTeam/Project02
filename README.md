@@ -23,6 +23,24 @@ The project aims to evaluate **market performance, consumer adoption, and compet
 
 ---
 
+
+
+## 📈 Key Insights (Sample)
+- The plant-based milk segment exhibits **double-digit growth**, outpacing the overall dairy market.
+- **Soy and oat milk** dominate volume, while **almond milk** leads in value due to premium pricing.
+- Consumers show **higher willingness to pay** for products positioned around health and sustainability.
+- Urban markets demonstrate **stronger and more stable demand** for nut milk products.
+
+---
+
+## 💡 Strategic Recommendations
+- Expand **high-margin nut milk sub-categories** with clear health positioning
+- Optimize **price ladders** to cover both mass and premium consumers
+- Focus distribution and communication efforts on **urban and young-adult segments**
+- Use data-driven insights to guide **product innovation and SKU rationalization**
+
+---
+
 ## 🧠 Analytical Framework
 - **Market Sizing & Growth Analysis**  
   Segment-level revenue, volume, and CAGR estimation
@@ -41,21 +59,5 @@ The project aims to evaluate **market performance, consumer adoption, and compet
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Jupyter Notebook** for advanced exploratory and comparative analysis
 - **GitHub** for version control and documentation
-
----
-
-## 📈 Key Insights (Sample)
-- The plant-based milk segment exhibits **double-digit growth**, outpacing the overall dairy market.
-- **Soy and oat milk** dominate volume, while **almond milk** leads in value due to premium pricing.
-- Consumers show **higher willingness to pay** for products positioned around health and sustainability.
-- Urban markets demonstrate **stronger and more stable demand** for nut milk products.
-
----
-
-## 💡 Strategic Recommendations
-- Expand **high-margin nut milk sub-categories** with clear health positioning
-- Optimize **price ladders** to cover both mass and premium consumers
-- Focus distribution and communication efforts on **urban and young-adult segments**
-- Use data-driven insights to guide **product innovation and SKU rationalization**
 
 ---
